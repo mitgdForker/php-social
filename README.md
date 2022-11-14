@@ -1,9 +1,6 @@
-social.tinywall.com
-===================
+# Tinywall Social Networking
 
-Tinywall Social Networking
-
-###Installation Instruction
+## Installation Instruction
 
 * Create a database 'tinywall_db' and run SQL the file https://github.com/tinywall/social/blob/master/tinywall_db.sql
 
